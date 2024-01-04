@@ -15,14 +15,6 @@
 <a href="https://linkedin.com/in/hparsaeian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hamideh Parsaeian" height="30" width="40" /></a>
 <a href="https://instagram.com/hamidehparsaeian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Hamideh Parsaeian" height="30" width="40" /></a>
 </p>
-<br/>
-<div align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamidehparsaeian&show_icons=true&locale=en&theme=react" alt="Hamideh Parsaeian" />
-</div>
-<br/>
 
 <p>Let's build something amazing together!</p>
-<br/>
-<p>Thank you for visiting my GitHub profile.</p>
-<br/>
 <p>Happy Coding! 🚀</p>
